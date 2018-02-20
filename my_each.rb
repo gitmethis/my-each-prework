@@ -6,6 +6,7 @@ def my_each (arr)# put argument(s) here
      yield arr[i]
      i+=1
   end
+  arr
 end
 
 
